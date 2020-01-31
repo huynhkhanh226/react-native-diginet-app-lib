@@ -1,11 +1,11 @@
 {
-  "name": "react-native-diginet-app-lib",
+  "name": "@huynhkhanh226/react-native-diginet-app-lib",
   "title": "React Native Diginet App Lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -15,13 +15,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": {
-    "name": "Raymond",
-    "email": "raymond@email.com"
-  },
+  "author": "Raymond <raymond@email.com>",
   "license": "MIT",
   "licenseFilename": "LICENSE",
-  "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
@@ -29,5 +25,10 @@
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/huynhkhanh226/react-native-diginet-app-lib/issues"
+  },
+  "homepage": "https://github.com/huynhkhanh226/react-native-diginet-app-lib#readme",
+  "dependencies": {}
 }
