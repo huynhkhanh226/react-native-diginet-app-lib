@@ -1,12 +1,10 @@
 {
   "name": "@huynhkhanh226/react-native-diginet-app-lib",
   "title": "React Native Diginet App Lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TODO",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/huynhkhanh226/react-native-diginet-app-lib.git",
