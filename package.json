@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-diginet-app-lib.git",
-    "baseUrl": "https://github.com/github_account/react-native-diginet-app-lib"
+    "url": "git+https://github.com/huynhkhanh226/react-native-diginet-app-lib.git",
+    "baseUrl": "https://github.com/huynhkhanh226/react-native-diginet-app-lib"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Raymond",
+    "email": "raymond@email.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
